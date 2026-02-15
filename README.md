@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Erica Rodrigues Batista, tenho 25 anos e sou natural de Santa Catarina. Concluí o ensino médio no Unificado, atualmente estou finalizando o curso de Ciências Econômicas na UFSC e sou apaixonada por tecnologia e finanças.
+Me chamo Erica Rodrigues Batista, tenho 25 anos e sou natural de Santa Catarina. Concluí o ensino médio no Unificado e atualmente estou finalizando a graduação de Ciências Econômicas na UFSC. Sou apaixonada por tecnologia e finanças.
 
 ---
 

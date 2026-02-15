@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Erica Rodrigues
+# 👩🏻‍💻 Érica Rodrigues
 
 **`Analista de Dados`**
 
